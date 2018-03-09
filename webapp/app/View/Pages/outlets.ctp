@@ -116,6 +116,7 @@
                     <div class="item">
                         <b>Tabunok Outlet 2</b><br>
                         (Below the fly-over) Tabunok, Talisay, Cebu<br />
+                        <span class="glyphicon glyphicon-phone-alt"></span> (032) 462 2725<br />
                         <span class="glyphicon glyphicon-phone"></span> (0925) 506 2538<br />
                         Opens: Mon to Sat 7am to 7pm, Sun - 7am to 4pm
                     </div>                    
@@ -130,6 +131,7 @@
                     <div class="item">
                         <b>Tisa Outlet</b><br>
                         Tisa, Labangon (Near Public Market), Cebu City<br />
+                        <span class="glyphicon glyphicon-phone-alt"></span> (032) 410 7209<br />
                         <span class="glyphicon glyphicon-phone"></span> (0933) 655 3377, (0956) 901 5427<br />
                         Opens: Mon to Fri - 7am to 7pm, Sat to Sun - 7am to 4pm
                     </div>                    
