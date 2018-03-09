@@ -1,0 +1,159 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 16, 2016, 8:59:53 PM
+    Author     : Oliver
+*/
+
+img, video {
+    max-width: 100%;
+    height: auto;
+}
+
+.featurette-christmas {
+
+}
+
+.outlets {
+    padding: 25px 0 50px 0;
+    margin: 0px 0 50px 0;
+    background-color: #01184e;
+    color: #fff;
+}
+.outlets .caption {
+    float:left;
+}
+
+.outlet-page {
+    float:left;
+    clear:both;
+    margin-bottom: 25px;
+}
+.outlet-page .pin {
+    float:left;
+    width: 70px;
+}
+.outlet-page .item {
+    float:left;
+    width: 375px;
+}
+
+.social {
+    margin-top:10px;
+    width:30px;
+    height:30px;
+    vertical-align:middle;
+    border:2px solid #5e5e5e;
+    border-radius: 5px;
+}
+.social:hover {
+    border:2px solid #fff;
+}
+
+.stickyTab {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border: 1px solid #ccc;
+    z-index: 1000;
+}
+
+.cap {
+    float:left;
+    clear:left;
+    width: 150px;
+}
+.val {
+    float:left;
+}
+.bold {font-weight: bold;}
+
+.white { color: white; }
+.black { color:black; }
+.red { color: red; }
+.yellow { color: #fff600; }
+
+/* BEGIN backgrounds */
+.bg-red {
+    background: #ee2a28;
+}
+.bg-gray {
+    background: #f1f1f1;
+}
+.bg-darkgray {
+    background: #25313e;
+}
+.bg-gold {
+    background: #cca925;
+}
+.bg-yellow {
+    background: #fff600;
+}
+
+.bg-gradient-diagonal-slash-gold {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cca925+0,cca925+52,cca925+52,fefcea+100 */
+    background: #cca925; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #cca925 0%, #cca925 52%, #cca925 52%, #f6eabf 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  #cca925 0%,#cca925 52%,#cca925 52%,#f6eabf 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  #cca925 0%,#cca925 52%,#cca925 52%,#f6eabf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cca925', endColorstr='#f6eabf',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.bg-gradient-diagonal-slash-silver {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f1f1f1+50,e1e1e1+51,f6f6f6+100;White+Gloss+%231 */
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  #ffffff 0%,#f1f1f1 50%,#e1e1e1 51%,#f6f6f6 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  #ffffff 0%,#f1f1f1 50%,#e1e1e1 51%,#f6f6f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+/* END backgrounds */
+
+
+
+.first-container {
+    margin-top: 50px;
+}
+
+
+/* Bootstrap Overrides */
+.breadcrumb {
+    margin-bottom: 0px;
+    padding-left: 0px;
+    border-radius: 0px;
+    background: transparent;
+    color: white;
+}
+.breadcrumb a {
+    color: white;
+}
+.submenuitem {
+    list-style: none;
+}
+.submenuitem {
+    margin-top: 10px;
+    padding-left: 0px;
+}
+.submenuitem li {
+    display: inline-block;
+    padding: 0px 10px;
+    color: #ccc;
+}
+.submenuitem > li::before {
+    padding: 0px 10px;
+    content: "\00BB";
+}
+.submenuitem li a {
+    color: white;
+}
+.submenuitem li a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+
+.christmas {display:none !important;}

@@ -1,0 +1,3 @@
+<?php $this->pageTitle = 'Terms Of Use'; ?>
+<h1><?php echo $this->pageTitle; ?></h1>
+Content here...
